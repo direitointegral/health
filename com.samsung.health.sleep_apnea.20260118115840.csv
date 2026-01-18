@@ -1,0 +1,3 @@
+﻿com.samsung.health.sleep_apnea,6307003,3
+create_sh_ver,start_time,result,modify_sh_ver,update_time,create_time,shm_data_id,time_offset,shm_device_uuid,start_time_offset,deviceuuid,comment,pkg_name,shm_update_time,end_time,datauuid,shm_create_time
+63051050,2025-10-29 10:27:41.722,0,63051050,2025-10-29 10:42:23.362,2025-10-29 10:42:23.362,f18b39a7-de76-4702-aa7c-fd258c399440,UTC-0300,b0df0d874a7e88c3290843f7e436c445fe812685dc01ec8318e0a7abbd9fe116,UTC-0300,82c7e5af-cc51-412a-a194-f2bccbe7c45c,,com.samsung.android.shealthmonitor,2025-10-29 10:27:41.722,2025-10-29 10:27:41.722,67225ed2-60fe-4f9d-b447-77998bbc1f37,2025-10-28 10:21:37.033,

@@ -1,0 +1,7 @@
+﻿com.samsung.health.device_profile,6307003,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+Samsung,,,,,,,,360001,2025-11-03 12:57:52.303,2025-11-03 12:57:52.303,My Device,SM-F956B,,,Yrp2M34ZOI,com.sec.android.app.shealth,,Z Fold6 de José Valmir,db261ee5-9126-58a3-2362-49015b92b250,
+Combined,,,,,,,,0,2025-11-03 12:58:41.085,2025-11-03 12:58:41.085,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,Z Fold6 de José Valmir,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2025-11-03 12:58:41.137,2025-11-03 12:58:41.137,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,Z Fold6 de José Valmir,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,,,360001,2022-04-03 17:01:12.327,2022-04-03 17:01:12.327,My Device,SM-N975F,,,R5wtjjS0Fd,com.sec.android.app.shealth,,Note10+ de José Valmir,5bc84202-a162-57a8-d75a-142eb1cf26d8,
+Samsung Electronics,1,,111,10065,1,febb170b-1df9-4e79-9241-8994238295fb.capability.json,,360003,2025-12-23 01:04:31.011,2025-10-26 15:02:50.164,Galaxy Watch8,SM-L335F,,,tWUO8ZL77Z,com.sec.android.app.shealth,,,febb170b-1df9-4e79-9241-8994238295fb,
