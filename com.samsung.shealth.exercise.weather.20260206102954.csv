@@ -1,0 +1,5 @@
+﻿com.samsung.shealth.exercise.weather,6307003,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+,,2026-01-11 14:20:57.197,-25.407042,,330.NNO,Encoberto,,1,TWC,2026-01-12 13:43:17.618,2026-01-12 13:43:17.618,1,-49.266727,25.0,67,UTC-0300,tWUO8ZL77Z,b8637e40-e17e-451b-bb34-3c6229eb4488,com.sec.android.app.shealth,km/h,,27.0,3,94385afe-dc3a-4d57-8212-c60bf87e8dbd,
+,,2026-01-16 19:40:26.736,-25.407087,,110.ESE,Encoberto,,1,TWC,2026-01-16 23:57:10.900,2026-01-16 23:57:10.900,1,-49.266644,23.0,78,UTC-0300,tWUO8ZL77Z,4574e90f-fbe6-403b-8340-43d005c4fddf,com.sec.android.app.shealth,km/h,,10.0,3,5f76c30a-4379-444c-868e-b8adbcc62c17,
+,,2026-02-01 13:39:05.260,-25.412798,,310.NO,Parcial. nublado,,1,TWC,2026-02-01 13:54:30.250,2026-02-01 13:54:30.250,1,-49.287457,26.0,62,UTC-0300,tWUO8ZL77Z,862a0413-6835-4dcf-aac5-0378750c7921,com.sec.android.app.shealth,km/h,,8.0,2,d8ba5add-49ef-4a28-82e9-8adcff940c09,

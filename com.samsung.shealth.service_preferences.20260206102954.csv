@@ -1,0 +1,16 @@
+﻿com.samsung.shealth.service_preferences,6307003,1
+text_value,service_id,float_value,update_time,create_time,long_value,key,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2025-10-26 15:06:34.367,2025-10-26 15:06:34.367,,oobe.completed,,,1,R5wtjjS0Fd,com.sec.android.app.shealth,,8a3f579e-259d-4aaf-b54a-ca36f13e9636,
+,tracker.cycle,,2025-10-26 15:06:35.020,2025-10-26 15:06:35.020,,cycle.shd_consent_status,,,0,R5wtjjS0Fd,com.sec.android.app.shealth,,cycle.shd_consent_status,
+,tracker.medication,,2025-10-26 15:06:35.179,2025-10-26 15:06:35.179,,medication.shd_consent_status,,,0,R5wtjjS0Fd,com.sec.android.app.shealth,,medication.shd_consent_status,
+,tracker.daily_activity,,2026-02-06 11:00:46.226,2025-10-26 15:16:50.555,1770364846211,da_yesterday_all_checked_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_yesterday_all_checked_time,
+"{""05-measure.period"":2,""05-alert.high.enable"":0,""05-alert.low.enable"":0,""08-measure.period"":1,""10-measure.period"":1,""06-skin_temp_enable"":0,""06-snore_setting"":0,""06-snore_setting_new"":0,""37-skin_temp_enable"":0,""34-detection.workout.enable"":0,""44-age.setting.enable"":0,""08-alert.high.enable"":0}",app.settings,,2026-01-30 18:57:22.713,2025-10-26 15:23:30.265,,psm_plus_settings,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,psm_plus_settings,
+"{""05-measure.period"":2,""05-alert.high.enable"":0,""05-alert.low.enable"":0,""08-measure.period"":1,""10-measure.period"":1,""06-skin_temp_enable"":0,""06-snore_setting"":0,""06-snore_setting_new"":0,""37-skin_temp_enable"":0,""34-detection.workout.enable"":0,""44-age.setting.enable"":0,""08-alert.high.enable"":0}",app.settings,,2026-01-30 18:57:22.848,2025-10-26 15:23:30.300,,psm_plus_settings_new,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,psm_plus_settings_new,
+,app.settings,,2026-02-06 13:13:05.933,2025-10-26 15:23:30.321,,psm_plus_enable,,,0,tWUO8ZL77Z,com.sec.android.app.shealth,,psm_plus_enable,
+,app.settings,,2026-02-06 13:13:05.972,2025-10-26 15:23:30.337,,psm_plus_enable_new,,,0,tWUO8ZL77Z,com.sec.android.app.shealth,,psm_plus_enable_new,
+,tracker.daily_activity,,2026-02-05 19:11:13.699,2025-10-27 22:40:01.830,1770307873400,da_step_achievement_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_step_achievement_time,
+,tracker.daily_activity,,2026-02-05 22:31:30.073,2025-10-28 00:04:30.233,1770319890039,da_active_time_achievement_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_active_time_achievement_time,
+,tracker.daily_activity,,2026-02-05 00:58:02.021,2025-10-28 00:04:30.267,1770242281999,da_active_calorie_achievement_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_active_calorie_achievement_time,
+,tracker.daily_activity,,2026-02-05 00:58:02.063,2025-10-28 00:04:30.283,1770242282056,da_all_achievement_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_all_achievement_time,
+,tracker.daily_activity,,2026-02-03 14:06:17.048,2025-11-03 16:41:04.811,1770116777040,da_all_over_half_cheer_up_time,,,,tWUO8ZL77Z,com.sec.android.app.shealth,,da_all_over_half_cheer_up_time,
+,tracker.daily_activity,,2026-02-05 18:21:39.312,2025-11-07 16:42:29.793,1770249600000,da_monthly_goal_first_day,,,,R5wtjjS0Fd,com.sec.android.app.shealth,,da_monthly_goal_first_day,
